@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82788e2b-33af-41c3-91dd-f3641a8e678c" name="Changes" comment="">
+    <list default="true" id="82788e2b-33af-41c3-91dd-f3641a8e678c" name="Changes" comment="Credit card program">
+      <change afterPath="$PROJECT_DIR$/src/CreditCardProgram/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreditCardProgram/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -29,18 +31,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="JavaProgrammingBasics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CreditCardProgram.Main">
+    <configuration name="CreditCardProgram.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreditCardProgram.Main" />
+      <module name="DataStructureAndAlgorithmsInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreditCardProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProgrammingBasics.Main" />
       <module name="DataStructureAndAlgorithmsInJava" />
@@ -56,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreditCardProgram.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -69,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656804230857</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java programming basics">
+      <created>1658900561373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658900561373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +105,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java programming basics" />
+    <MESSAGE value="Credit card program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Credit card program" />
   </component>
 </project>
