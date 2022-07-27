@@ -1,4 +1,4 @@
-package JavaProgrammingBasics;
+package ChapterOne.JavaProgrammingBasics;
 
 public class Point implements IPoint {
     private int x = 0;

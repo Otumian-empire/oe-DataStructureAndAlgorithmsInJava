@@ -1,4 +1,4 @@
-package CreditCardProgram;
+package ChapterOne.CreditCardProgram;
 
 public class CreditCard {
     // instance variables

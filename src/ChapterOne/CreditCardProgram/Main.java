@@ -1,4 +1,4 @@
-package CreditCardProgram;
+package ChapterOne.CreditCardProgram;
 
 public class Main {
     public static void main(String[] args) {
